@@ -1,0 +1,28 @@
+// Escriba un programa que lea N numeros
+// y muestre cuantas veces repite el ultimo numero ingresado.
+Proc: Repeticion ultimo numero
+	Entero: N, i, repetidos
+	
+
+	Escriba "¿Cuántos números va ingresar ?"
+	Lea N
+
+	Entero: numeros[N]
+
+	Para (i <- 1, N,  1) Haga
+		Escriba "Ingrese el valor ", i, ": "
+		Lea numeros[i]
+	Fin_Para
+
+	// Proceso
+	repetidos <- 0
+	Para (i <- 1, N, 1) Haga
+		Si numeros[i] = numeros[N] Entonces
+		  	repetidos <- repetidos + 1
+		Fin.Si
+
+	Fin_Para
+
+	Escriba "El ultimo elemento es ", numeros[N], " y se repite", repetidos, "veces"
+
+Fin_Proc 
