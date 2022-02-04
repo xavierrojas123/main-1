@@ -1,0 +1,20 @@
+, Chevrolet, Spark Gt, 2018, 1.2
+CEE-678, Susuki, Celerio, 2015, 1.1
+QTA-234, Kia, Rio, 2012, 1.4
+MCE-683, Hyundai, Sonata, 2017, 1.5
+CUA-267, Kia, Sorento, 2019, 1.7
+LCA-678, Chevrolet, Toscana, 2020, 2.1
+ESM-654, Susuki, Vitara, 2010, 1.4
+GUA-983, Mitsubishi, Montero Sport, 2021, 2.3
+NAP-452, Mercedes-Benz, Clase B, 206, 1.6
+RPA-373, Ford, Fiesta, 2015, 2.4
+ALK-456, Kia, Ceed, 2019, 1.5
+LAI-781, Renault, Grand Scenic, 2021, 2.1
+MAN-173, Toyota, Hylux, 2017, 1.8
+OLN-589, Volkswagen, Amarok, 2011, 1.3
+GAP-985, Kia, Niro, 2018, 1.9
+LAA-200, Audi, SportBack, 2016, 3.2
+ROH-004, Toyota, Prius, 2018, 1.6
+LAF-913, Mini, Cabrio, 2005, 1.9
+SAE-712, Hyundai, Tucson, 2013, 1.4
+JOA-123, Ford, Mustang, 2012, 1.3
